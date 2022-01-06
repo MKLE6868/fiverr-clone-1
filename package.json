@@ -33,6 +33,4 @@
     "socket.io": "^1.7.3",
     "stripe": "^4.25.0"
   },
-  "scripts": {
-  "start": "node index.js"
 }
